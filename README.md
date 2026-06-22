@@ -6,7 +6,7 @@ A modern, responsive web application to calculate EMI (Equated Monthly Installme
 
 ##  Live Demo
 
-👉 (Add your Vercel link here)
+[Click Here to View Project](https://smart-emi-planner-ten.vercel.app/)
 
 ---
 
